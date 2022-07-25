@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\learning"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blackjackgame"
+	}
+}

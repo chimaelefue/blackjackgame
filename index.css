@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(5, 65, 5);
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    color: chocolate;
+    font-size: 45px;
+    
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+#message-el{
+color: rgb(129, 180, 180);
+}
+button{
+    color: rgb(5, 65, 5);
+    font-weight: bolder;
+    background-color: chocolate;
+    border-style: none;
+    border-radius: 5px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: 5px;
+    width: 120px;
+    
+}
